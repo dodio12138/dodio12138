@@ -7,6 +7,10 @@
 -->
 # 👋Hi, here is Levy Zhang!
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Dodio12138&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</p> <br>
+
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D12027943%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&logoColor=%2300A1D6&label=bilibili)
 
 
