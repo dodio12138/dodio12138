@@ -10,12 +10,13 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D12027943%26jsonp%3Djsonp&query=%24.data.follower&logo=bilibili&logoColor=%2300A1D6&label=bilibili)
 
 
-I am an indie developer and trying to learn to be a full stack developer.
+I am an indie developer, creative worker and trying to learn to be a full stack developer.
 
 Now I am studying Robotics in QMUL.
 
 I'm interested in a lot of things.
 
+### Creative
 ![Static Badge](https://img.shields.io/badge/MikuMikuDance-00CDCD.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGltYWdlIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgaHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGlWQk9SdzBLR2dvQUFBQU5TVWhFVWdBQUFDQUFBQUFnQ0FNQUFBQkVwSXJHQUFBQUJHZEJUVUVBQUxHUEMveGhCUUFBQUNCalNGSk4gQUFCNkpnQUFnSVFBQVBvQUFBQ0E2QUFBZFRBQUFPcGdBQUE2bUFBQUYzQ2N1bEU4QUFBQXQxQk1WRVVBQUFDWk16UE1tWm5NekpuLyBtWm1aWm1Zek16c0FNek16Wm1ZQWdJQXptWmxtbWN3enpKbG1abWJNbVdhWm1aa3paalBkM2QzLy81a2lJakFBTTJZQVptWUFacGt6IG1jd3p6TXd6WnBtQWdJQUF6TXovbWN4bVpwbG1aalBNek13emJqTUFaalBNLzh5Wm1XWm1Nek16TXdBUkFBREF3TUFBRVFBQUFDSXogTTJabW1aa2lBQURNbWN6Ly8vOW1Nd0Naek13QUFCSE16UC93OFBDZ29LVE0vLzhBbWN6L3pQOHp6UCtabVRQQTNNRC8rL0F6TXpOZyBadUNvQUFBQUFYUlNUbE1BUU9iWVpnQUFBQUZpUzBkRUxsVFRFSWNBQUFBSGRFbE5SUWZuQ0JrTE94ajVmMHJCQUFBQ1hVbEVRVlE0IHk0VlRhM09iTUJERVNLQkhDa1FDREtndXRBWkhUb212ZFhHVE51Ny8vMTI5azBtblh6b1Z6RWpETGJ0N0QwV2IvNnhvRXpPT1Q1SUsgcWFTK2U1ZGxPZVBGdlpTYTFoMEN1TEgwRkZsWjFWdmRORzNubUluVGVvdkg1ajBDbU4weHc0MWh6S1ZTVklwKy9GRDBaZDFGaUNDRyB3V0xjSXNSeTVqNm1sYWkzU25lZnFsbzNPakJRMlBBOVFmRE00c0k1bDBrcHkxbzFnUUdqZ3gwd1RDZEQ0REhwcHg1TnFjREFCM2JUIHNBTnRlVElkMHZ2cDhEQk5RbTZibTBrVTRNWVRRejZWUi9Fb1BzOStlamc4b2NqTnBMY25UQlJSMmFIRXNEaldNMEQ2Tk1wU3JTWU4gcFdxNCs5Sjl6Y1JaQ0RGL2c4TVVaM1cxbWlRR2JvdCtucGRMS1k2UEZlNkhtSFdhQUd6SGdKRyt5Y0YzTWhWSFl2aWVqTWJwWjAwTSBld09MTlR0bUFVQUs4bmlXcyttSFBJM2E5dVlCbGxBREJPZ1NMWnlGQWloNGozVmFDd1dBQW55UGdGbmkvMElXTURJMzZhYU5idDBFIG9GNlFCQ2dwQkNVWnMwUkdUU052aFVLR25hRXRjSFFYZ05GbWljUitsMjhNTDZnUkdIQXRBUG1TWEp6U3JVcURTZkt3bzJhdUNNcmEgc1l3VUFvUGw1T0ZFTmppeWhBbHpvMDl4WE1yeWpTSE1SSGhQQzViMWxQaFk2Ujg2RFF5Y1VacFU2NkJEYmNrdjVtZUhTWlpIQk9BUSBZeUw0ZVZsMTBFRWNqMWpHUnA0elltQ01QcHExWlh1NkJObDRvU1JGNmNrRERnVFpDK3lJZURWNVVpeEdOcTA2dTJ0b2x2WEdic0xVIEl2c3I1NzIvZ3BQUGJmWExBd0xXdFEramozWllmOEZTT2RWcUdjUHlCK0N0WWJ0WDhwTTRqS09DbHFjRnJ1RnVXczh3QVFyaW03b0YgQVY1RzJ3SjNDRm1jTUVlTUliOUplby94QmR4V3VaZmwrcGZFUDlkdnRKVktZS3hzS1pBQUFBQWxkRVZZZEdSaGRHVTZZM0psWVhSbCBBREl3TWpNdE1EZ3RNalZVTVRFNk5UazZNalFyTURBNk1ERHBrUWZ6QUFBQUpYUkZXSFJrWVhSbE9tMXZaR2xtZVFBeU1ESXpMVEE0IExUSTFWREV4T2pVNU9qSTBLekF3T2pBd21NeS9Ud0FBQUNoMFJWaDBaR0YwWlRwMGFXMWxjM1JoYlhBQU1qQXlNeTB3T0MweU5WUXggTVRvMU9Ub3lOQ3N3TURvd01NL1pucEFBQUFBQVNVVk9SSzVDWUlJPSIvPjwvc3ZnPg==&style=flat&logoColor=red&link=) ![Static Badge](https://img.shields.io/badge/Cinema_4D-%23011A6A?logo=Cinema%204D) ![Static Badge](https://img.shields.io/badge/Houdini-%23E04000?logo=Houdini&logoColor=white) ![Static Badge](https://img.shields.io/badge/Zbrush-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbDpzcGFjZT0icHJlc2VydmUiIHdpZHRoPSI4MDAiIGhlaWdodD0iODAwIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHBhdGggZD0iTTI2MyA4M2MtMi0xMCAxLTIwIDctMzAgOC0xMyAxOC0yMCAyOS0yMSAxNC0yIDI3IDYgMzkgMjIgMTEgMTUgMTYgMjkgMTUgNDItMSA4LTEyIDEzLTM1IDE0LTE4IDItMzEgMC0zOS01LTktNS0xNC0xMi0xNi0yMnptMjQ4IDM5NmMtMiAyLTYgMi0xNC0yLTEzLTYtMjctMTUtNDMtMjgtMTgtMTQtMjktMjUtMzEtMzR2LTdsNC05YzItOS0xLTE3LTktMjVsLTE3LTEyYy0xNi04LTM4LTE1LTY4LTIxLTMxLTYtNjEtOS04OS0xMGwtMzUgMmExMjI0IDEyMjQgMCAwIDEtNDcgNTBjLTI3IDI0LTUzIDQzLTc5IDU1LTM2IDE4LTYyIDIzLTgwIDE1LTItMi0zLTQtMi04bDMtMTBjMTItMjcgMzItNTEgNjAtNzNsNy02YTUzOSA1MzkgMCAwIDEgMTQ4LTcxbDE1LTIxIDE4LTIwYTQzMSA0MzEgMCAwIDEgNDMtNDJsLTM2LTIzLTMyLTIwYy0yNS0xMS01MC03LTc2IDEwLTE1IDEwLTIzIDIyLTI0IDM0bC0xIDE1YzEgNS0xMyAxMi00MSAyMmwtMTMgNEg1OWwtMi0yYy0zLTUgOS0yMiAzNS01MWw1LTZjNDctNDkgMTAyLTY4IDE2NS01NyAxNyAzIDQ2IDE0IDg3IDMyIDQtNCAxMi0xMCAyMi0xNiAxMy03IDI1LTExIDMzLTEyIDE4IDAgMzAgNyAzNCAyMiAzIDgtMyAyMS0xOSAzNi0xNiAxNy0zMiAyOC00NiAzMi0xOSA1LTM4IDItNjAtOS05IDctMjAgMTctMzEgMzFsLTIgMS0yNyAzMy0xIDJoMTljMTQgMCAyOCAyIDQyIDcgMzggMTIgNzAgMjcgOTUgNDVhMjc2IDI3NiAwIDAgMSA2OSA2OWwyNCAzOWM5IDE4IDEyIDMxIDEwIDM5ek0zNzEgMTY3YzMgMyAxMSA0IDI0IDMgMTQgMCAyNC0zIDMwLTggMi0zIDItNi0xLTgtMy0zLTktNC0xOC0zLTggMi0xNiA0LTI1IDhzLTEyIDctMTAgOHpNMTc3IDMzN2gtNGEzNjcgMzY3IDAgMCAwLTc1IDI1bC0yOSAxNmMtMjcgMTgtNDAgMzUtMzggNTJsMyAzYzcgNSAyMSAxIDQzLTExYTM3NCAzNzQgMCAwIDAgMTAwLTg1eiIvPjwvc3ZnPg==&style=flat&logoColor=white&link=) ![Static Badge](https://img.shields.io/badge/blender-%23F5792A?logo=blender&logoColor=white)
 
 
@@ -27,6 +28,8 @@ I'm interested in a lot of things.
 >My first camera was a sony α6300, I used it a lot to take videos and photos and learned image processing, video editing & post production. Now I mainly use DaVinci.
 
 
+### Development
+
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=Csharp&logoColor=white) ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=white)   
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=flat-square&logo=.NET&logoColor=white) ![Static Badge](https://img.shields.io/badge/Qt-%2341CD52?style=flat-square&logo=Qt&logoColor=white) ![Static Badge](https://img.shields.io/badge/Unity-%23000000?style=flat-square&logo=Unity&logoColor=white) ![Static Badge](https://img.shields.io/badge/Godot-%23478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Static Badge](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=NumPy&logoColor=white) ![Static Badge](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![Static Badge](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=Opencv&logoColor=white) ![Static Badge](https://img.shields.io/badge/ffmpeg-%23007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
@@ -35,15 +38,6 @@ I'm interested in a lot of things.
  
 
 ![Static Badge](https://img.shields.io/badge/Processing-%23006699?style=flat-square&logo=processingfoundation&logoColor=white) ![Static Badge](https://img.shields.io/badge/P5.js-%23ED225D?style=flat-square&logo=P5.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/Haxe-%23EA8220?style=flat-square&logo=Haxe&logoColor=white)  
-
-
-
-
-
-
-
-
-
 
 >I have also been exposed to many programming languages and now I mainly use `C` for embedded development. Developing programs and games in `C#`, mainly using `.NET`, `Qt` and `Unity` framework, and also I am now learning game development using Godot. 
 >For robotics development I use more `Python` and `C++`.
