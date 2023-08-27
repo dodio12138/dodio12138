@@ -70,5 +70,3 @@ I'm interested in a lot of things.
 
 
 
-
-
