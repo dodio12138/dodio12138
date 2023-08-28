@@ -59,7 +59,7 @@ I'm interested in a lot of things.
 ![Static Badge](https://img.shields.io/badge/OBS-%23302E31?style=flat-square&logo=obsstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/QGIS-%23589632?style=flat-square&logo=Qgis&logoColor=white) ![Static Badge](https://img.shields.io/badge/MuseScore-%231A70B8?style=flat-square&logo=musescore&logoColor=white) ![Static Badge](https://img.shields.io/badge/Aseprite-%237D929E?style=flat-square&logo=aseprite&logoColor=white) ![Static Badge](https://img.shields.io/badge/GIMP-%235C5543?style=flat-square&logo=GIMP&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=dodio12138&show_icons=true&count_private=true&include_all_commits=true&title_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodio12138&layout=donut&title_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C)](https://github.com/dodio12138)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dodio12138&layout=donut&title_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C)](https://github.com/dodio12138)
 
 
 
