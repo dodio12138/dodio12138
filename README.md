@@ -16,7 +16,7 @@
 
 I am an indie developer, creative worker and trying to learn to be a full stack developer.
 
-Now I am studying Robotics in QMUL.
+Now I am studying Robotics in QMUL and focusing on Deep Reinforcement Learning for robot motion control applications.
 
 I'm interested in a lot of things.
 
