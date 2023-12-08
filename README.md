@@ -7,10 +7,6 @@
 -->
 # 👋Hi, here is Levy Zhang!
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=Dodio12138&color=0079fa&style=for-the-badge&label=PROFILE+VIEWS" alt="profile view counter">
-</p>
-
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D12027943%26jsonp%3Djsonp&query=%24.data.follower&&style=for-the-badge&logo=bilibili&logoColor=%2300A1D6&label=bilibili&link=https://space.bilibili.com/12027943)
 
 
@@ -57,8 +53,6 @@ I'm interested in a lot of things.
 ![Static Badge](https://img.shields.io/badge/KiCad-%23314CB0?style=flat-square&logo=kicad&logoColor=white)   
 ![Static Badge](https://img.shields.io/badge/LaTeX-%23008080?style=flat-square&logo=latex&logoColor=white) ![Static Badge](https://img.shields.io/badge/Zotero-%23CC2936?style=flat-square&logo=zotero&logoColor=white) ![Static Badge](https://img.shields.io/badge/Diagrams-%23F08705?style=flat-square&logo=diagramsdotnet&logoColor=white) ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat-square&logo=Notion&logoColor=white)   
 ![Static Badge](https://img.shields.io/badge/OBS-%23302E31?style=flat-square&logo=obsstudio&logoColor=white) ![Static Badge](https://img.shields.io/badge/QGIS-%23589632?style=flat-square&logo=Qgis&logoColor=white) ![Static Badge](https://img.shields.io/badge/MuseScore-%231A70B8?style=flat-square&logo=musescore&logoColor=white) ![Static Badge](https://img.shields.io/badge/Aseprite-%237D929E?style=flat-square&logo=aseprite&logoColor=white) ![Static Badge](https://img.shields.io/badge/GIMP-%235C5543?style=flat-square&logo=GIMP&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api?username=dodio12138&show_icons=true&count_private=true&include_all_commits=true&&show=reviews,discussions_started,prs_merged,prs_merged_percentagetitle_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dodio12138&layout=donut&langs_count=20&title_color=8AFF80&text_color=F8F8F2&icon_color=1E90FE&bg_color=22212C)
 
 
 
