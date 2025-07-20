@@ -12,7 +12,7 @@
 
 I am an indie developer, creative worker and trying to learn to be a full stack developer.
 
-Now I am studying Robotics in QMUL and focusing on Deep Reinforcement Learning for robot motion control applications.
+I obtained my MSc in Advanced Robotics from Queen Mary University of London in September 2024 and focusing on Deep Reinforcement Learning for robot motion control applications.
 
 I'm interested in a lot of things.
 
